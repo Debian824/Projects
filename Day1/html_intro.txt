@@ -1,0 +1,59 @@
+. What is the "<!DOCTYPE html>"-declatation?
+	-This declares and specifies this doc to be an html5 file.
+	-The <!DOCTYPE> declaration represents the document type, and helps browsers to display web pages     correctly. This only needs to be written into the html doc, one time.
+
+. ELEMENTS
+	-
+. What is the <html> element?
+	-This is the "root" element of the html5 page.
+. What is the <head> element?
+	-This contains "MetaData" (meta information), about the document.
+. What is the <title> element?
+	-This specifies the/a title for the document.
+. What is the <body> element?
+	-This specifies the/a body, or visible content on the page.
+. What is the <h1> element?
+	-This is used to introduce your first/or multiple heading/s on the page, as well as, introducing the first heading on a page.
+. What is the <p> element?
+	-"<p>" is an element that defines a paragraph.
+
+
+. HTML Tags
+	
+    -HTML tags normally come in pairs like <p> and </p>
+    -The first tag in a pair is the start tag, the second tag is the end tag
+    -The end tag is written like the start tag, but with a forward slash inserted before the tag name
+    
+    . Tip: The start tag is also called the opening tag, and the end tag the closing tag.
+
+
+. Web Browsers
+
+	-The purpose of a web browser (Chrome, Edge, Firefox, Safari) is to read HTML documents and display 		them.
+
+	-The browser does not display the HTML tags, but uses them to determine how to display the document:
+
+. HTML Documents
+
+-All HTML documents must start with a document type declaration: <!DOCTYPE html>.
+
+-The HTML document itself begins with <html> and ends with </html>.
+
+-The visible part of the HTML document is between <body> and </body>. 
+
+
+. HTML Headings
+
+-HTML headings are defined with the <h1> to <h6> tags.
+
+-<h1> defines the most important heading. <h6> defines the least important heading: 
+
+. HTML Paragraphs
+
+-HTML paragraphs are defined with the <p> tag:
+
+
+. HTML Links
+
+-HTML links are defined with the <a> tag:
+
