@@ -1,0 +1,25 @@
+body{
+	background-image: url(i.jpg);
+}
+
+h1{
+	color: gold;
+	text-align: center;
+	border: 5px solid red;
+
+}
+
+p {
+	font-family: 'Poiret One', cursive;
+	line-height: 50px;
+	border: 5px solid green;
+	font-weight: bold;
+	font-style: italic;
+	color: gold }
+	
+}
+
+header {
+	align-content: right;
+}
+

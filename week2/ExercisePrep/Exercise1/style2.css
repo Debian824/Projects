@@ -1,0 +1,15 @@
+body{
+	background-image: url(p.jpg);
+
+}
+
+li{
+	list-style: hebrew;
+	color: red;
+
+}
+
+a{
+	border: solid blue;
+	text-decoration-color: gold;
+}
