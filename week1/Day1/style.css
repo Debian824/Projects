@@ -1,0 +1,34 @@
+body {
+	background-color: blue;
+
+}
+h1 {
+	color: red;
+	background-color: gray;
+}
+
+#main-heading {
+	color: silver;
+	background-color: gold;
+	margin-top: 200px;
+	margin-bottom: 200px;
+
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+#other-heading{
+	color: yellow;
+	background-color: purple;
+}	
+
+.blue-text {
+	color: cyan;
+}
+ul li {
+	color: green;
+}
+
+p1{
+	color: gold;
+}

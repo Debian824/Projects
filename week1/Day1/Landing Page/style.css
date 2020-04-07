@@ -1,0 +1,19 @@
+body{
+	background-color: silver;
+}
+
+.carousel-inner img {
+  margin: auto;
+}
+
+h2 {
+	border-color: blue;
+	color: black;
+}
+h5{
+	color: green;
+}
+
+h6{
+	color: yellow;
+}
